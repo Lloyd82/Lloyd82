@@ -7,4 +7,4 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLloyd82&count_bg=%23D31212&title_bg=%23330B3F&icon=&icon_color=%231B24D3&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![Lloyd82's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lloyd82&show_icons=true&theme=cobalt)
+![Lloyd82's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lloyd82&show_icons=true&theme=tokyonight)
